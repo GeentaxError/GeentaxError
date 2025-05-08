@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gee
 - 👀 I’m interested in App and Webpage Development
 - 🌱 I’m currently learning Java and Python
-- 📫 How to reach me caballeroragee00@gmail.com
+- 📫 How to reach me rtoro851@gmail.com
 - 😄 Pronouns: He/Him
 
 <!---
